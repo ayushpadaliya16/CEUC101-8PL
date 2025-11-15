@@ -1,3 +1,8 @@
+/*aim: To make Patterns
+editor: Ayush padaliya
+last updated date:25/08/2025
+*/
+
 #include <stdio.h>
 
 void main()
@@ -42,3 +47,4 @@ void main()
         printf("\n");
     }
 }
+
